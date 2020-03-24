@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Amrindersingh1/MyPortfolioWebsite/static/css/main.3587f5ea.chunk.css",
+    "main.js": "/Amrindersingh1/MyPortfolioWebsite/static/js/main.4e00a0e3.chunk.js",
+    "main.js.map": "/Amrindersingh1/MyPortfolioWebsite/static/js/main.4e00a0e3.chunk.js.map",
+    "runtime-main.js": "/Amrindersingh1/MyPortfolioWebsite/static/js/runtime-main.09ae763f.js",
+    "runtime-main.js.map": "/Amrindersingh1/MyPortfolioWebsite/static/js/runtime-main.09ae763f.js.map",
+    "static/js/2.55c92afe.chunk.js": "/Amrindersingh1/MyPortfolioWebsite/static/js/2.55c92afe.chunk.js",
+    "static/js/2.55c92afe.chunk.js.map": "/Amrindersingh1/MyPortfolioWebsite/static/js/2.55c92afe.chunk.js.map",
+    "index.html": "/Amrindersingh1/MyPortfolioWebsite/index.html",
+    "precache-manifest.bf1addd31f8f15bc4608f140ce9af2f8.js": "/Amrindersingh1/MyPortfolioWebsite/precache-manifest.bf1addd31f8f15bc4608f140ce9af2f8.js",
+    "service-worker.js": "/Amrindersingh1/MyPortfolioWebsite/service-worker.js",
+    "static/css/main.3587f5ea.chunk.css.map": "/Amrindersingh1/MyPortfolioWebsite/static/css/main.3587f5ea.chunk.css.map",
+    "static/js/2.55c92afe.chunk.js.LICENSE.txt": "/Amrindersingh1/MyPortfolioWebsite/static/js/2.55c92afe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ae763f.js",
+    "static/js/2.55c92afe.chunk.js",
+    "static/css/main.3587f5ea.chunk.css",
+    "static/js/main.4e00a0e3.chunk.js"
+  ]
+}
